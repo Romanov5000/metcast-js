@@ -1,1 +1,2 @@
-# metcast-js
+Кликни для просмотра.
+https://romanov5000.github.io/metcast-js/
